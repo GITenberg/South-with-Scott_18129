@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7825
     wikipedia: http://en.wikipedia.org/wiki/Edward_Evans%2C_1st_Baron_Mountevans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18129#South-with-Scott
 gutenberg_issued: '2006-04-07'
 gutenberg_type: Text
 identifiers:
