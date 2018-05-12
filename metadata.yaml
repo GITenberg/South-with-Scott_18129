@@ -1,0 +1,30 @@
+_repo: South-with-Scott_18129
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mountevans, Edward Ratcliffe Garth Russell Evans, baron
+    alias: Evans, Edward R. G. R.
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '7825'
+    url: http://www.gutenberg.org/2009/agents/7825
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Evans%2C_1st_Baron_Mountevans
+description: ''
+gutenberg_issued: '2006-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antarctica -- Discovery and exploration -- British'
+- !lcsh 'Scott, Robert Falcon, 1868-1912'
+- !lcsh 'British Antarctic ("Terra Nova") Expedition (1910-1913)'
+- !lcc 'G'
+title: South with Scott
+url: http://www.gutenberg.org/ebooks/18129
